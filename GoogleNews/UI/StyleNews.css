@@ -1,0 +1,42 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main-div-news {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.news-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.google-body {
+    margin-top: 10px;
+}
+
+    .google-body p {
+        font-size: 14px;
+    }
+
+    .google-body a {
+        text-decoration: none;
+        color: blue;
+    }
+
+        .google-body a:hover {
+            text-decoration: underline;
+        }
