@@ -27,16 +27,15 @@ h1 {
 .google-body {
     margin-top: 10px;
 }
+.google-body p {
+ font-size: 14px;
+}
 
-    .google-body p {
-        font-size: 14px;
-    }
+ .google-body a {
+text-decoration: none;
+color: blue;
+}
 
-    .google-body a {
-        text-decoration: none;
-        color: blue;
-    }
-
-        .google-body a:hover {
-            text-decoration: underline;
-        }
+.google-body a:hover {
+text-decoration: underline 
+}
