@@ -7,7 +7,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using GoogleNews.DALNewsGoogle;
 
-namespace tovi.UI
+namespace GoogleNews.UI
 {
     public partial class newsGoogle : System.Web.UI.Page
     {
