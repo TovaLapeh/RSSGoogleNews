@@ -5,7 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Xml;
 
-namespace tovi.DALNewsGoogle
+namespace GoogleNews.DALNewsGoogle
 {
     public class NewsGoogle
     {
