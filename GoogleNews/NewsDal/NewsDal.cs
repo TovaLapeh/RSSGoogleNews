@@ -21,7 +21,6 @@ namespace tovi.DALNewsGoogle
             if (items == null)
             {
                 items = FetchFeedFromUrl();
-                //לדעתי מתאים שהמטמון יתעדכן כל 20 דקות
                 HttpContext.Current.Cache.Insert(CacheKey, items, null, DateTime.Now.AddMinutes(20), TimeSpan.Zero);
             }
 
