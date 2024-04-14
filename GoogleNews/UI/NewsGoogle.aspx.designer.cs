@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace tovi.UI
+namespace GoogleNews.UI
 {
 
 
