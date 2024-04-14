@@ -23,7 +23,7 @@
                         </a>
                         <div class="google-body" style="display: none;">
                             <p><%# Eval("body") %></p>
-                            <a href='<%# Eval("Link") %>'>לכתבה המלאה-</a>
+                            <a href='<%# Eval("Link") %>'>Read More -</a>
                         </div>
                     </section>
                 </ItemTemplate>
